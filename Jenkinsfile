@@ -2,9 +2,9 @@
 
 
 def pipelineConfig = { 
-    projectKey: 'nlp_model_app',
-    projectName: 'nlp_model_app',
-    sourcePath : '.'
+    projectKey: nlp_model_app,
+    projectName: nlp_model_app,
+    sourcePath : .
 }
 
 
