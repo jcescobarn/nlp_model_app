@@ -1,4 +1,4 @@
-@Library('SharedPipelines')
+@Library('SharedPipelines@main')
 
 
 def pipelineConfig = [
