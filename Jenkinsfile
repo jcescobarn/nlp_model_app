@@ -9,4 +9,4 @@ def pipelineConfig = [
 
 
 def dataPipeline = new AppDataPipeline(pipelineConfig)
-dataPipeline.exec()
+dataPipeline.pipeline()
